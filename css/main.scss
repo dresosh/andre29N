@@ -12,9 +12,9 @@ body {
   padding: 0;
 }
 
-.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
-    color: red;
-}
+// .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+//     color: red;
+// }
 
 .centerNav {
   margin: 0 auto;
@@ -33,6 +33,12 @@ body {
     position: absolute;
     left: 45%;
     transform: translateX(-50%);
+    >li>a{
+      color: white;
+      &:hover{
+      color: red;
+      }
+    }
   }
 }
 
@@ -74,4 +80,10 @@ body {
 
 .navbar-inverse {
   background: $navbar-color;
+}
+
+
+
+nav ul {
+    color: #ffffff;
 }
