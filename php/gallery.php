@@ -1,4 +1,4 @@
-<div class="row">
+<div id="gallery" class="row">
 
   <div class="gallery">
   </div>

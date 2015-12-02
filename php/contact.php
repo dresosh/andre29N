@@ -1,4 +1,4 @@
-<div class="row">
+<div id="contact" class="row">
 
   <div class="contact">
     <h1>Contact</h1>
