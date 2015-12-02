@@ -1,7 +1,6 @@
-<div class="row"><!-- row container -->
+<div id="residents" class="row"><!-- row container -->
 
   <div class="residents"><!-- residents container -->
-
     <h1 class="heading">residents</h1>
 
     <!-- new row -->
