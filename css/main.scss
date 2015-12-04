@@ -4,6 +4,7 @@
 
 $navbar-color: #000000;
 $nav-margin: 50px;
+$red: #ad3e36;
 
 
 /*# sourceMappingURL=main.css.map */
@@ -18,7 +19,7 @@ body {
 }
 
 .red {
-  background: red;
+  background: $red;
   // width: 600px;
   margin: auto;
 
@@ -35,7 +36,7 @@ body {
       color: white;
 
       &:hover{
-      color: red;
+      color: $red;
       }
     }
   }
@@ -49,7 +50,7 @@ body {
     color: white;
 
     &:hover {
-      color: red;
+      color: $red;
     }
   }
 }
@@ -71,7 +72,7 @@ body {
 }
 
 .lofts {
-  background: red;
+  background: $red;
   width: 100%;
   height: 100vh;
   padding-top: $nav-margin;
@@ -121,6 +122,6 @@ body {
 
 .heading {
   text-transform: capitalize;
-  color: red;
+  color: $red;
   margin-left: 15px;
 }
