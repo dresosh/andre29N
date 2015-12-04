@@ -17,6 +17,7 @@
 
         <li><a href="#location">Location</a></li>
         <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#lofts">Lofts</a></li>
         <li><a href="#residents">Residents</a></li>
         <li><a href="#team">Team</a></li>
         <li><a href="#contact">Contact</a></li>

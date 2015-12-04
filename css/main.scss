@@ -4,6 +4,8 @@
 
 $navbar-color: #000000;
 $nav-margin: 50px;
+$red: #ad3e36;
+$modalBG: #fff5ed;
 
 
 /*# sourceMappingURL=main.css.map */
@@ -18,7 +20,7 @@ body {
 }
 
 .red {
-  background: red;
+  background: $red;
   // width: 600px;
   margin: auto;
 
@@ -35,7 +37,7 @@ body {
       color: white;
 
       &:hover{
-      color: red;
+      color: $red;
       }
     }
   }
@@ -49,7 +51,7 @@ body {
     color: white;
 
     &:hover {
-      color: red;
+      color: $red;
     }
   }
 }
@@ -58,43 +60,49 @@ body {
 
 .location {
   background: white;
+  color: white;
   width: 100%;
   height: 100vh;
   padding-top: $nav-margin;
+  background-image: url("../img/location.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .gallery {
   background: black;
   width: 100%;
   height: 100vh;
-  padding-top: $nav-margin;
+  // padding-top: $nav-margin;
 }
 
 .lofts {
-  background: red;
+  background: $red;
   width: 100%;
   height: 100vh;
-  padding-top: $nav-margin;
+  // padding-top: $nav-margin;
+  color: white;
 }
 
 .residents {
   width: 100%;
   height: 100vh;
-  padding-top: $nav-margin;
+  // padding-top: $nav-margin;
 }
 
 .team {
   background: white;
   width: 100%;
   height: 100vh;
-  padding-top: $nav-margin;
+  // padding-top: $nav-margin;
 }
 
 .contact {
   background: black;
   width: 100%;
   height: 100vh;
-  padding-top: $nav-margin;
+  // padding-top: $nav-margin;
+  color: white;
 }
 
 .navbar-inverse {
@@ -121,6 +129,139 @@ body {
 
 .heading {
   text-transform: capitalize;
-  color: red;
+  color: $red;
   margin-left: 15px;
+}
+
+.building-container {
+  width: 165px;
+  height: 120px;
+  background: black;
+  background-image: url("../img/building.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.floor {
+  height: 40px;
+  opacity: .5;
+  cursor: pointer;
+  &:hover {
+    background: gray;
+  }
+}
+
+.floor1 {
+  background: red;
+  height: 40px;
+  opacity: .5;
+  cursor: pointer;
+}
+.floor2 {
+  background: green;
+  height: 40px;
+  opacity: .5;
+  cursor: pointer;
+}
+.floor3 {
+  background: blue;
+  height: 40px;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.download-box {
+  width: 20px;
+  height: 25px;
+  border: 3px solid white;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.download-box-big {
+  width: 33px;
+  height: 45px;
+  border: 5px solid white;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+.contact-heading {
+  color: $red;
+}
+
+.contact-info {
+  font-size: 20px;
+}
+
+.contact-text {
+  font-size: 16px;
+}
+
+.contact-img {
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../img/contactImg.jpg");
+}
+
+
+.fa-file {
+  cursor: pointer;
+}
+
+.slideshow {
+  // background: red;
+  // width: 800px;
+  margin: auto;
+  // height: 100vh;
+}
+
+.test {
+  width: 100%;
+  height: 95vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../img/contactImg.jpg");
+}
+
+
+.carousel-indicators {
+    left: 95%;
+}
+
+.modal-box {
+  width: 500px;
+  height: 300px;
+  background:$modalBG;
+  border: 10px solid black;
+}
+
+.uber {
+  position: relative;
+  top: 110px;
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-image: url("../img/uber.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  left: 32px;
+}
+
+.postmates {
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-image: url("../img/postmates.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    left: 11px;
+    top: 20px;
 }

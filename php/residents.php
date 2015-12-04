@@ -88,7 +88,7 @@
 
 
       <div class="col-md-4">
-        <div class="button">
+        <div class="button" data-toggle="modal" data-target="#hungryModal">
 
           <span>
             hungry?
@@ -96,6 +96,23 @@
 
         </div>
       </div>
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="hungryModal" tabindex="-1" role="dialog" aria-labelledby="hungryModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-box">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="hungryModalLabel">Hungry?</h4>
+      </d iv>
+      <div class="postmates"></div>
+      <div class="uber"></div>
+    </div>
+  </div>
+</div>
 
 
   </div><!-- residents container -->
