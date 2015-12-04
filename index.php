@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
@@ -22,7 +23,7 @@
           include "./php/gallery.php";
           include "./php/lofts.php";
           include "./php/residents.php";
-          include "./php/team.php";
+          // include "./php/team.php";
           include "./php/contact.php";
         ?>
 
