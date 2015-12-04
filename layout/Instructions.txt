@@ -1,0 +1,97 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: 29Navy-web-11-24-15.indd
+
+PACKAGE DATE: 12/1/15 8:15 AM
+Creation Date: 12/1/15
+Modification Date: 12/1/15
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37
+
+FONTS
+6 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: DTLHaarlemmerSansSD; Type: Type 1, Status: OK
+- Name: DTLHaarlemmerSansSD-Italic; Type: Type 1, Status: OK
+- Name: FontAwesome; Type: OpenType Type 1, Status: OK
+- Name: Knockout-HTF49-Liteweight; Type: Type 1, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: SofiaProLight; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 71.565; Lines/Inch: 94.868
+- Name and Type: Process Magenta; Angle: 18.434; Lines/Inch: 94.868
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 100.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 106.066
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 236 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 230 use RGB color space
+
+
+PRINT SETTINGS
+PPD: HP LaserJet 8150 Series, (10.0.0.2 8150 @ Clay (2))
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 60%, 60%
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: Crops
+Bleed: 0 px, 0 px, 0 px, 0 px
+Color: Composite, Colors in Black.
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Custom: 1170 px x 762 px
+Paper Dimensions: 612 px x 792 px
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. 29Navy-web-11-24-15.indd; type: Adobe InDesign publication; size: 14216K
+2. 29Navy-web-11-24-15.idml; type: InDesign Markup Document; size: 1304K
+3. DTLHaaSanSD; type: Font file; size: 0K
+4. DTLHaarlemmerSansSD.bmap; type: Font file; size: 0K
+5. DTLHaaSanSDIta; type: Font file; size: 0K
+6. DTLHaarlemmerSansSD-Italic.bmap; type: Font file; size: 0K
+7. FontAwesome.otf; type: Font file; size: 91K
+8. KnockHTF49Lit; type: Font file; size: 0K
+9. Knockout HTF49 Liteweight; type: Font file; size: 0K
+10. MinionPro-Regular.otf; type: Font file; size: 225K
+11. SofiaProLight.otf; type: Font file; size: 87K
